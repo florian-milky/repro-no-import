@@ -1,1 +1,5 @@
-export const IMPORT_ME = 1;
+const IMPORT_ME = 1;
+
+module.exports = {
+  IMPORT_ME
+};
